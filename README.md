@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Draven-gif](https://tenor.com/ru/view/draven-lol-league-of-legends-gladiator-gladiator-draven-gif-11391662508623664901)
+![Draven-gif]()
 <!--
 **jouchuki/jouchuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
