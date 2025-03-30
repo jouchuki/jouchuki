@@ -1,4 +1,6 @@
 ![Draven-gif](draven-lol.gif)
+## How to find me:
+[LinkedIn](www.linkedin.com/in/v-sokolovs)
 ## 🎧 Ultimate Coding and Dravening Playlist 💻🪓
 [🔥 Dravening Under the Influence on Spotify 🎵](https://open.spotify.com/playlist/07fMnEIvRm6Ec9lFuakoWU?si=80614bcaf0f04bdc)
 
