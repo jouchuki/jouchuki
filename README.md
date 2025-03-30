@@ -1,6 +1,7 @@
 ![Draven-gif](draven-lol.gif)
-## Ultimate Coding and Dravening Playlist
-[Dravening Under the Influence on Spotify](https://open.spotify.com/playlist/07fMnEIvRm6Ec9lFuakoWU?si=80614bcaf0f04bdc)
+## 🎧 Ultimate Coding and Dravening Playlist 💻🪓
+[🔥 Dravening Under the Influence on Spotify 🎵](https://open.spotify.com/playlist/07fMnEIvRm6Ec9lFuakoWU?si=80614bcaf0f04bdc)
+
 
 <!--
 **jouchuki/jouchuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
